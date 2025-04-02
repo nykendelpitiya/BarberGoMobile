@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556239602105",
+    "project_id": "barbergo-cd733",
+    "storage_bucket": "barbergo-cd733.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556239602105:android:1afca01e793d9477057668",
+        "android_client_info": {
+          "package_name": "com.barbergo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwdCqWOseziDulB_o7FYdJKUa4rk4YX5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
